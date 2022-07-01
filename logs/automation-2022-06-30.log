@@ -1,0 +1,534 @@
+18:16:06.458 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+18:16:06.462 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+18:16:07.030 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+18:16:07.199 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+18:16:07.466 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+18:16:07.528 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+18:16:07.575 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+18:16:07.625 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+18:16:07.668 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+18:16:07.711 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+18:16:07.753 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+18:16:07.791 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+18:16:08.057 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+18:16:18.161 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+18:16:18.162 [main] ERROR testcases.TC_001_AccountRegistration - Test case failed.
+12:59:09.876 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+12:59:09.879 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+12:59:16.762 [main] FATAL testcases.TC_001_AccountRegistration - Test case failed due to fatal.
+12:59:49.072 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+12:59:49.075 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+12:59:49.792 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+12:59:49.972 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+12:59:50.246 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+12:59:50.305 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+12:59:50.351 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+12:59:50.402 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+12:59:50.445 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+12:59:50.488 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+12:59:50.532 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+12:59:50.568 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+12:59:53.117 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+12:59:53.146 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+12:59:53.146 [main] INFO  testcases.TC_001_AccountRegistration - Test case passed.
+13:28:17.218 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+13:28:17.243 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+13:28:17.243 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launching application.
+13:28:18.060 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launched Edge Browser
+13:28:18.061 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+13:28:18.065 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+13:28:18.065 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launching application.
+13:28:18.247 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+13:28:18.606 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+13:28:18.670 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+13:28:18.673 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+13:28:18.727 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+13:28:18.784 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+13:28:18.829 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+13:28:18.881 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+13:28:18.915 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+13:28:18.938 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+13:28:18.982 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+13:28:19.231 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+13:28:19.306 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+13:28:19.357 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+13:28:19.411 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+13:28:19.459 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+13:28:19.507 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+13:28:19.557 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+13:28:19.597 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+13:28:21.361 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+13:28:21.388 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Validation started....
+13:28:21.388 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Test case passed.
+13:28:21.934 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+13:28:21.962 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Validation started....
+13:28:21.962 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Test case passed.
+17:50:22.956 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+17:50:22.980 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+17:50:22.980 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+17:50:29.089 [main] FATAL testcases.TC_001_AccountRegistration - Test case failed due to fatal.
+17:50:47.059 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+17:50:47.083 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+17:50:47.083 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+17:50:47.909 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+17:50:48.153 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+17:50:48.519 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+17:50:48.587 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+17:50:48.634 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+17:50:48.683 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+17:50:48.727 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+17:50:48.772 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+17:50:48.812 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+17:50:48.849 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+17:50:51.310 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+17:50:51.337 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+17:50:51.337 [main] INFO  testcases.TC_001_AccountRegistration - Test case passed.
+17:50:51.338 [main] INFO  testcases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration.
+19:23:08.754 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+19:23:08.896 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+19:23:08.896 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+19:23:10.082 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+19:23:10.901 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+19:23:11.745 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+19:23:11.884 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+19:23:11.976 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+19:23:12.098 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+19:23:12.211 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+19:23:12.322 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+19:23:12.420 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+19:23:12.509 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+19:23:15.534 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+19:23:15.590 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+19:23:15.590 [main] INFO  testcases.TC_001_AccountRegistration - Test case passed.
+19:23:15.594 [main] INFO  testcases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration.
+19:37:54.038 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+19:37:54.063 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+19:37:54.063 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+19:37:54.585 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+19:37:54.760 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+19:37:55.022 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+19:37:55.078 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+19:37:55.124 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+19:37:55.189 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+19:37:55.232 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+19:37:55.276 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+19:37:55.317 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+19:37:55.354 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+19:37:55.569 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+19:38:05.677 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+19:38:05.677 [main] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+19:50:34.259 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+19:50:34.283 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+19:50:34.283 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+19:50:34.863 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+19:50:35.031 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+19:50:35.292 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+19:50:35.355 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+19:50:35.402 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+19:50:35.451 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+19:50:35.493 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+19:50:35.536 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+19:50:35.577 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+19:50:35.614 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+19:50:35.834 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+19:50:45.968 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+19:50:45.969 [main] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+19:59:08.364 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launched Edge Browser
+19:59:08.364 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+19:59:08.384 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+19:59:08.384 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launching application.
+19:59:08.384 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+19:59:08.384 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launching application.
+19:59:08.956 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+19:59:08.973 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+19:59:09.139 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+19:59:09.205 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+19:59:09.449 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+19:59:09.535 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+19:59:09.546 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+19:59:09.596 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+19:59:09.615 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+19:59:09.664 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+19:59:09.679 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+19:59:09.723 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+19:59:09.745 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+19:59:09.781 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+19:59:09.799 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+19:59:09.834 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+19:59:09.847 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+19:59:09.876 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+19:59:09.898 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+19:59:09.938 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+19:59:10.133 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+19:59:10.201 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+19:59:20.218 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Validation started....
+19:59:20.218 [TestNG-tests-2] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+19:59:20.240 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Validation started....
+19:59:20.241 [TestNG-tests-1] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+20:01:40.215 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launched Edge Browser
+20:01:40.221 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+20:01:40.277 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+20:01:40.277 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launching application.
+20:01:40.277 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+20:01:40.277 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launching application.
+20:01:40.872 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+20:01:40.872 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+20:01:41.059 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+20:01:41.119 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+20:01:41.401 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+20:01:41.430 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+20:01:41.470 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+20:01:41.491 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+20:01:41.523 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+20:01:41.545 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+20:01:41.583 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+20:01:41.607 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+20:01:41.633 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+20:01:41.658 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+20:01:41.681 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+20:01:41.708 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+20:01:41.733 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+20:01:41.763 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+20:01:41.774 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+20:01:41.805 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+20:01:42.032 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+20:01:42.067 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+20:01:52.133 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Validation started....
+20:01:52.133 [TestNG-tests-1] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+20:01:52.136 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Validation started....
+20:01:52.136 [TestNG-tests-2] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+20:01:52.334 [TestNG-tests-1] FATAL testcases.TC_001_AccountRegistration - Test case failed due to fatal.
+20:06:00.306 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+20:06:00.306 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launched Edge Browser
+20:06:00.329 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+20:06:00.329 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launching application.
+20:06:00.330 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+20:06:00.330 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launching application.
+20:06:00.932 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+20:06:00.932 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+20:06:01.129 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+20:06:01.130 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+20:06:01.468 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+20:06:01.477 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+20:06:01.540 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+20:06:01.543 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+20:06:01.601 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+20:06:01.602 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+20:06:01.662 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+20:06:01.664 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+20:06:01.714 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+20:06:01.719 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+20:06:01.767 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+20:06:01.776 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+20:06:01.816 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+20:06:01.830 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+20:06:01.860 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+20:06:01.873 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+20:06:02.132 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+20:06:02.133 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+20:06:12.199 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Validation started....
+20:06:12.199 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Validation started....
+20:06:12.199 [TestNG-tests-1] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+20:06:12.199 [TestNG-tests-2] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+20:06:12.357 [TestNG-tests-2] FATAL testcases.TC_001_AccountRegistration - Test case failed due to fatal.
+20:06:46.759 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+20:06:46.784 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+20:06:46.784 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+20:06:47.307 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+20:06:47.488 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+20:06:47.741 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+20:06:47.801 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+20:06:47.846 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+20:06:47.896 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+20:06:47.940 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+20:06:47.983 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+20:06:48.027 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+20:06:48.063 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+20:06:48.292 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+20:06:58.350 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+20:06:58.350 [main] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+20:07:57.679 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launched Edge Browser
+20:07:57.679 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+20:07:57.704 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+20:07:57.704 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launching application.
+20:07:57.704 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+20:07:57.704 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launching application.
+20:07:58.271 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+20:07:58.282 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+20:07:58.343 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+20:07:58.453 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+20:07:58.729 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+20:07:58.793 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+20:07:58.819 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+20:07:58.858 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+20:07:58.886 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+20:07:58.916 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+20:07:58.952 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+20:07:58.977 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+20:07:59.003 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+20:07:59.028 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+20:07:59.054 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+20:07:59.077 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+20:07:59.105 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+20:07:59.127 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+20:07:59.147 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+20:07:59.168 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+20:07:59.382 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+20:07:59.423 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+20:08:09.413 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Validation started....
+20:08:09.413 [TestNG-tests-2] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+20:08:09.489 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Validation started....
+20:08:09.490 [TestNG-tests-1] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+20:10:27.955 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+20:10:27.976 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+20:10:27.976 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+20:10:28.502 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+20:10:28.549 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+20:10:28.818 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+20:10:28.872 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+20:10:28.917 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+20:10:28.966 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+20:10:29.010 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+20:10:29.051 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+20:10:29.096 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+20:10:29.144 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+20:10:31.496 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+20:10:31.523 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+20:10:31.523 [main] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+13:12:21.540 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+13:12:21.544 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+13:12:22.328 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+13:12:22.345 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+13:12:22.522 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+13:12:22.822 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+13:12:22.885 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+13:12:22.937 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+13:12:22.987 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+13:12:23.028 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+13:12:23.072 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+13:12:23.115 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+13:12:23.152 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+13:12:25.724 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+13:12:25.751 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+13:12:25.751 [main] ERROR testcases.TC_001_AccountRegistration - Account Registration Failed.
+13:14:30.364 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+13:14:30.368 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+13:14:30.943 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+13:14:30.954 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+13:14:31.121 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+13:14:31.405 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+13:14:31.465 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+13:14:31.512 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+13:14:31.562 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+13:14:31.607 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+13:14:31.647 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+13:14:31.693 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+13:14:31.731 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+13:14:34.298 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+13:14:34.323 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+13:14:34.323 [main] INFO  testcases.TC_001_AccountRegistration - Test case passed.
+13:14:34.325 [main] INFO  testcases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration.
+18:05:16.436 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+18:05:16.438 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+18:05:16.982 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+18:05:16.997 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+18:05:17.161 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+18:05:17.413 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+18:05:17.472 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+18:05:17.518 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+18:05:17.568 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+18:05:17.612 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+18:05:17.655 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+18:05:17.698 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+18:05:17.735 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+18:05:20.084 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+18:05:20.112 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+18:05:20.112 [main] INFO  testcases.TC_001_AccountRegistration - Test case passed.
+18:05:20.114 [main] INFO  testcases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration.
+18:07:24.061 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+18:07:24.065 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+18:07:24.631 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+18:07:24.643 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+18:07:24.689 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+18:07:24.959 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+18:07:25.015 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+18:07:25.059 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+18:07:25.110 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+18:07:25.154 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+18:07:25.196 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+18:07:25.238 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+18:07:25.274 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+18:07:27.642 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+18:07:27.669 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+18:07:27.669 [main] INFO  testcases.TC_001_AccountRegistration - Test case passed.
+18:07:27.671 [main] INFO  testcases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration.
+18:07:29.619 [main] INFO  testcases.TC_002_Login - Launched Chrome Browser
+18:07:29.619 [main] INFO  testcases.TC_002_Login - Launching application.
+18:07:30.133 [main] INFO  testcases.TC_002_Login - Starting TC_002_Login.
+18:07:30.133 [main] INFO  testcases.TC_002_Login - Home Page Displayed.
+18:07:30.296 [main] INFO  testcases.TC_002_Login - Clicked on My Account.
+18:07:30.507 [main] INFO  testcases.TC_002_Login - Clicked on Login.
+18:07:30.566 [main] INFO  testcases.TC_002_Login - Provided Email.
+18:07:30.612 [main] INFO  testcases.TC_002_Login - Provided Password.
+18:07:30.905 [main] INFO  testcases.TC_002_Login - Clicked on Login.
+18:07:30.948 [main] INFO  testcases.TC_002_Login - Login Success 
+18:07:30.948 [main] INFO  testcases.TC_002_Login - Finished TC_002_Login.
+18:22:24.756 [main] INFO  testcases.TC_003_LoginDDT - Launched Chrome Browser
+18:22:24.758 [main] INFO  testcases.TC_003_LoginDDT - Launching application.
+18:22:26.175 [main] INFO  testcases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+18:22:26.175 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed 
+18:22:26.242 [main] INFO  testcases.TC_003_LoginDDT - Clicked on My Account 
+18:22:26.446 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login 
+18:22:26.513 [main] INFO  testcases.TC_003_LoginDDT - Provided Email 
+18:22:26.559 [main] INFO  testcases.TC_003_LoginDDT - Provided Password 
+18:22:26.749 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login
+18:22:36.818 [main] ERROR testcases.TC_003_LoginDDT - Login Failed 
+18:22:36.849 [main] INFO  testcases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+18:22:36.850 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed 
+18:22:36.890 [main] INFO  testcases.TC_003_LoginDDT - Clicked on My Account 
+18:22:37.068 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login 
+18:22:37.136 [main] INFO  testcases.TC_003_LoginDDT - Provided Email 
+18:22:37.180 [main] INFO  testcases.TC_003_LoginDDT - Provided Password 
+18:22:37.375 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login
+18:22:47.442 [main] ERROR testcases.TC_003_LoginDDT - Login Failed 
+18:22:47.443 [main] INFO  testcases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+18:22:47.460 [main] INFO  testcases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+18:22:47.460 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed 
+18:22:47.554 [main] INFO  testcases.TC_003_LoginDDT - Clicked on My Account 
+18:22:47.765 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login 
+18:22:47.819 [main] INFO  testcases.TC_003_LoginDDT - Provided Email 
+18:22:47.864 [main] INFO  testcases.TC_003_LoginDDT - Provided Password 
+18:22:48.054 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login
+18:22:58.111 [main] ERROR testcases.TC_003_LoginDDT - Login Failed 
+18:22:58.112 [main] INFO  testcases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+18:22:58.129 [main] INFO  testcases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+18:22:58.130 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed 
+18:22:58.213 [main] INFO  testcases.TC_003_LoginDDT - Clicked on My Account 
+18:22:58.393 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login 
+18:22:58.454 [main] INFO  testcases.TC_003_LoginDDT - Provided Email 
+18:22:58.495 [main] INFO  testcases.TC_003_LoginDDT - Provided Password 
+18:22:58.698 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login
+18:23:08.727 [main] ERROR testcases.TC_003_LoginDDT - Login Failed 
+18:23:08.728 [main] INFO  testcases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+19:04:37.670 [main] INFO  testcases.TC_003_LoginDDT - Launched Chrome Browser
+19:04:37.674 [main] INFO  testcases.TC_003_LoginDDT - Launching application.
+19:04:38.984 [main] INFO  testcases.TC_003_LoginDDT - Starting TC_003_LoginDDT.
+19:04:38.984 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed.
+19:04:39.042 [main] INFO  testcases.TC_003_LoginDDT - Clicked on My Account.
+19:04:39.282 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login.
+19:04:39.352 [main] INFO  testcases.TC_003_LoginDDT - Provided Email.
+19:04:39.400 [main] INFO  testcases.TC_003_LoginDDT - Provided Password.
+19:04:39.600 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login.
+19:04:49.992 [main] ERROR testcases.TC_003_LoginDDT - Login Failed.
+19:04:50.029 [main] INFO  testcases.TC_003_LoginDDT - Starting TC_003_LoginDDT.
+19:04:50.029 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed.
+19:05:02.290 [main] FATAL testcases.TC_003_LoginDDT - Login Failed.
+19:05:02.307 [main] INFO  testcases.TC_003_LoginDDT - Starting TC_003_LoginDDT.
+19:05:02.308 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed.
+19:05:14.506 [main] FATAL testcases.TC_003_LoginDDT - Login Failed.
+19:05:14.508 [main] INFO  testcases.TC_003_LoginDDT - Starting TC_003_LoginDDT.
+19:05:14.508 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed.
+19:05:26.715 [main] FATAL testcases.TC_003_LoginDDT - Login Failed.
+19:10:02.556 [main] INFO  testcases.TC_003_LoginDDT - Launched Chrome Browser
+19:10:02.558 [main] INFO  testcases.TC_003_LoginDDT - Launching application.
+19:10:03.803 [main] INFO  testcases.TC_003_LoginDDT - Starting TC_003_LoginDDT.
+19:10:03.803 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed.
+19:10:03.858 [main] INFO  testcases.TC_003_LoginDDT - Clicked on My Account.
+19:10:04.092 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login.
+19:10:04.157 [main] INFO  testcases.TC_003_LoginDDT - Provided Email.
+19:10:04.203 [main] INFO  testcases.TC_003_LoginDDT - Provided Password.
+19:10:04.438 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login.
+19:10:04.478 [main] INFO  testcases.TC_003_LoginDDT - Login Success.
+19:10:04.712 [main] INFO  testcases.TC_003_LoginDDT - Finished TC_003_LoginDDT.
+19:10:04.724 [main] INFO  testcases.TC_003_LoginDDT - Starting TC_003_LoginDDT.
+19:10:04.724 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed.
+19:10:04.759 [main] INFO  testcases.TC_003_LoginDDT - Clicked on My Account.
+19:10:04.951 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login.
+19:10:05.005 [main] INFO  testcases.TC_003_LoginDDT - Provided Email.
+19:10:05.046 [main] INFO  testcases.TC_003_LoginDDT - Provided Password.
+19:10:05.241 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login.
+19:10:15.339 [main] ERROR testcases.TC_003_LoginDDT - Login Failed.
+19:10:15.339 [main] INFO  testcases.TC_003_LoginDDT - Finished TC_003_LoginDDT.
+19:10:15.356 [main] INFO  testcases.TC_003_LoginDDT - Starting TC_003_LoginDDT.
+19:10:15.356 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed.
+19:10:15.440 [main] INFO  testcases.TC_003_LoginDDT - Clicked on My Account.
+19:10:15.631 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login.
+19:10:15.692 [main] INFO  testcases.TC_003_LoginDDT - Provided Email.
+19:10:15.731 [main] INFO  testcases.TC_003_LoginDDT - Provided Password.
+19:10:15.946 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login.
+19:10:26.007 [main] ERROR testcases.TC_003_LoginDDT - Login Failed.
+19:10:26.008 [main] INFO  testcases.TC_003_LoginDDT - Finished TC_003_LoginDDT.
+19:10:26.024 [main] INFO  testcases.TC_003_LoginDDT - Starting TC_003_LoginDDT.
+19:10:26.025 [main] INFO  testcases.TC_003_LoginDDT - Home Page Displayed.
+19:10:26.102 [main] INFO  testcases.TC_003_LoginDDT - Clicked on My Account.
+19:10:26.310 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login.
+19:10:26.365 [main] INFO  testcases.TC_003_LoginDDT - Provided Email.
+19:10:26.407 [main] INFO  testcases.TC_003_LoginDDT - Provided Password.
+19:10:26.598 [main] INFO  testcases.TC_003_LoginDDT - Clicked on Login.
+19:10:36.655 [main] ERROR testcases.TC_003_LoginDDT - Login Failed.
+19:10:36.655 [main] INFO  testcases.TC_003_LoginDDT - Finished TC_003_LoginDDT.
+23:39:20.179 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+23:39:20.181 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+23:39:28.410 [main] INFO  testcases.TC_002_Login - Launched Chrome Browser
+23:39:28.410 [main] INFO  testcases.TC_002_Login - Launching application.
+23:39:49.332 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+23:39:49.335 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+23:39:50.239 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+23:39:50.255 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+23:39:50.441 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+23:39:50.739 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+23:39:50.808 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+23:39:50.854 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+23:39:50.908 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+23:39:50.952 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+23:39:50.994 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+23:39:51.037 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+23:39:51.073 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+23:39:53.600 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+23:39:53.625 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+23:39:53.625 [main] INFO  testcases.TC_001_AccountRegistration - Test case passed.
+23:39:53.627 [main] INFO  testcases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration.
+23:39:55.538 [main] INFO  testcases.TC_002_Login - Launched Chrome Browser
+23:39:55.538 [main] INFO  testcases.TC_002_Login - Launching application.
+23:39:56.065 [main] INFO  testcases.TC_002_Login - Starting TC_002_Login.
+23:39:56.065 [main] INFO  testcases.TC_002_Login - Home Page Displayed.
+23:39:56.113 [main] INFO  testcases.TC_002_Login - Clicked on My Account.
+23:39:56.315 [main] INFO  testcases.TC_002_Login - Clicked on Login.
+23:39:56.381 [main] INFO  testcases.TC_002_Login - Provided Email.
+23:39:56.424 [main] INFO  testcases.TC_002_Login - Provided Password.
+23:39:56.817 [main] INFO  testcases.TC_002_Login - Clicked on Login.
+23:39:56.855 [main] INFO  testcases.TC_002_Login - Login Success 
+23:39:56.855 [main] INFO  testcases.TC_002_Login - Finished TC_002_Login.
+23:40:31.575 [main] INFO  testcases.TC_002_Login - Launched Chrome Browser
+23:40:31.578 [main] INFO  testcases.TC_002_Login - Launching application.
+23:40:32.068 [main] INFO  testcases.TC_002_Login - Starting TC_002_Login.
+23:40:32.068 [main] INFO  testcases.TC_002_Login - Home Page Displayed.
+23:40:32.261 [main] INFO  testcases.TC_002_Login - Clicked on My Account.
+23:40:32.493 [main] INFO  testcases.TC_002_Login - Clicked on Login.
+23:40:32.557 [main] INFO  testcases.TC_002_Login - Provided Email.
+23:40:32.602 [main] INFO  testcases.TC_002_Login - Provided Password.
+23:40:32.854 [main] INFO  testcases.TC_002_Login - Clicked on Login.
+23:40:32.899 [main] INFO  testcases.TC_002_Login - Login Success 
+23:40:32.900 [main] INFO  testcases.TC_002_Login - Finished TC_002_Login.
+23:40:47.840 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+23:40:47.843 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+23:40:48.355 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+23:40:48.370 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+23:40:48.550 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
+23:40:48.807 [main] INFO  testcases.TC_001_AccountRegistration - Providing customer details.
+23:40:48.866 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's first name.
+23:40:48.912 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's last name.
+23:40:48.960 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's email.
+23:40:49.004 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's telephone number.
+23:40:49.045 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's password.
+23:40:49.088 [main] INFO  testcases.TC_001_AccountRegistration - Entered customer's confirm password.
+23:40:49.125 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on privacy policy.
+23:40:51.478 [main] INFO  testcases.TC_001_AccountRegistration - Clicked on continue button.
+23:40:51.507 [main] INFO  testcases.TC_001_AccountRegistration - Validation started....
+23:40:51.507 [main] INFO  testcases.TC_001_AccountRegistration - Test case passed.
+23:40:51.509 [main] INFO  testcases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration.
+23:52:57.867 [main] INFO  testcases.TC_001_AccountRegistration - Launched Chrome Browser
+23:52:57.870 [main] INFO  testcases.TC_001_AccountRegistration - Launching application.
+23:52:58.408 [main] INFO  testcases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration.
+23:52:58.419 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account.
+23:52:58.475 [main] INFO  testcases.TC_001_AccountRegistration - Clicking on Home>>My Account>>Register.
